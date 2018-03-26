@@ -1,3 +1,3 @@
-just
+just             我吃了一个巧克力
  for 
 	fun
